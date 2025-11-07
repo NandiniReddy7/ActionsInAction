@@ -1,0 +1,43 @@
+Access modifiers are the keywords that can be used to control the visibility of the packet members like fields, methods, etc.,
+
+There are 2 types........exportable and unexportable
+
+
+Jagannath Temple → Puri, Odisha
+Lingaraja Temple → Bhubaneswar, Odisha
+Konark Sun Temple → Konark, Puri district, Odisha
+Mukteshwar Temple → Bhubaneswar, Odisha
+Chilika Lake → Spreads across Puri, Khordha, and Ganjam districts, Odisha
+Udayagiri Caves → Near Bhubaneswar, Odisha
+Dhauli Shanti Stupa (Peace Pagoda) → Dhauli Hills, near Bhubaneswar, Odisha
+Puri Beach → Puri, Odisha
+
+Somnath Temple → Prabhas Patan, Gir Somnath district, Gujarat
+Dwarkadhish Temple (Jagat Mandir) → Dwarka, Devbhumi Dwarka district, Gujarat
+Ambaji Temple → Ambaji, Banaskantha district, Gujarat (near Arasur Hills)
+Girnar Temple (Girnar Hills) → Junagadh, Gujarat
+Gir National Park → Junagadh, Amreli, and Gir Somnath districts, Gujarat
+Rani ki Vav (Stepwell) → Patan, Gujarat
+Sabarmati Ashram → Ahmedabad, Gujarat
+Somnath Beach → Near Somnath Temple, Gir Somnath district, Gujarat
+
+Kashi Vishwanath Temple – Varanasi, UP (famous Hindu temple dedicated to Lord Shiva)
+Banke Bihari Temple – Vrindavan, UP (famous Krishna temple)
+Durga Kund Temple – Varanasi, UP (lesser-known temple, local significance)
+Dashashwamedh Ghat – Varanasi, UP (iconic riverfront ghat on Ganga)
+Taj Mahal – Agra, UP (world-famous Mughal monument
+Agra Fort – Agra, UP (UNESCO heritage fort)
+Sarnath Stupa – Sarnath, near Varanasi, UP (important Buddhist pilgrimage site)
+Mahabodhi Temple – Bodh Gaya, Bihar (Buddhist site marking Buddha’s enlightenment)
+
+Nellaiappar Temple – Tirunelveli (famous Shiva temple)
+Tiruchendur Murugan Temple – Tiruchendur (seaside Murugan temple)
+Suchindram Thanumalayan Temple – Suchindram (Shiva, Vishnu, and Brahma in one temple)
+Kumari Amman Temple – Kanyakumari (famous Devi temple at the southern tip of India)
+Papanasam Agasthiyar Falls – Papanasam (waterfall in Western Ghats)
+Courtallam Falls – Courtallam (popular waterfall and spa area)
+Vivekananda Rock – Kanyakumari (rock monument in the sea)
+Manimuthar Dam – near Tirunelveli (scenic dam and reservoir)
+
+
+
